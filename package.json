@@ -1,0 +1,20 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'building app...'",
+    "deploy": "echo 'Deploying app..'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  },
+  "dependencies": {
+    "touch": "^3.1.1"
+  }
+}
